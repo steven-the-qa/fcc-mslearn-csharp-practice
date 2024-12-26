@@ -1,0 +1,14 @@
+/Users/stevenboutcher/Desktop/projects/csharp-practice/bin/Debug/net8.0/csharp-practice
+/Users/stevenboutcher/Desktop/projects/csharp-practice/bin/Debug/net8.0/csharp-practice.deps.json
+/Users/stevenboutcher/Desktop/projects/csharp-practice/bin/Debug/net8.0/csharp-practice.runtimeconfig.json
+/Users/stevenboutcher/Desktop/projects/csharp-practice/bin/Debug/net8.0/csharp-practice.dll
+/Users/stevenboutcher/Desktop/projects/csharp-practice/bin/Debug/net8.0/csharp-practice.pdb
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.AssemblyInfoInputs.cache
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.AssemblyInfo.cs
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.csproj.CoreCompileInputs.cache
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.dll
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/refint/csharp-practice.dll
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.pdb
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/csharp-practice.genruntimeconfig.cache
+/Users/stevenboutcher/Desktop/projects/csharp-practice/obj/Debug/net8.0/ref/csharp-practice.dll
